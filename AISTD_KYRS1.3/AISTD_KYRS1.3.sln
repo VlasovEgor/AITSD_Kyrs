@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AISTD_KYRS1.3", "AISTD_KYRS1.3.vcxproj", "{64772B5C-E300-4530-821C-CE0D6226DC90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64772B5C-E300-4530-821C-CE0D6226DC90}.Debug|x64.ActiveCfg = Debug|x64
+		{64772B5C-E300-4530-821C-CE0D6226DC90}.Debug|x64.Build.0 = Debug|x64
+		{64772B5C-E300-4530-821C-CE0D6226DC90}.Debug|x86.ActiveCfg = Debug|Win32
+		{64772B5C-E300-4530-821C-CE0D6226DC90}.Debug|x86.Build.0 = Debug|Win32
+		{64772B5C-E300-4530-821C-CE0D6226DC90}.Release|x64.ActiveCfg = Release|x64
+		{64772B5C-E300-4530-821C-CE0D6226DC90}.Release|x64.Build.0 = Release|x64
+		{64772B5C-E300-4530-821C-CE0D6226DC90}.Release|x86.ActiveCfg = Release|Win32
+		{64772B5C-E300-4530-821C-CE0D6226DC90}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {477262C7-E478-42D4-A5C7-8D530359616D}
+	EndGlobalSection
+EndGlobal
